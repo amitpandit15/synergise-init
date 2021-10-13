@@ -15,3 +15,4 @@
 - Kaushik Dey [Kaushikdey647](https://github.com/Kaushikdey647)
 - Nagsen Waghmare [Nagsenwaghmare](https://github.com/Nagsenwaghmare)
 - Akshat Gupta [AkshatGupta468](https://github.com/AkshatGupta468)
+- Amit Kumar Pandit [amit_pandit_15](https://github.com/amit_pandit_15)
